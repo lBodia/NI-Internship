@@ -10,7 +10,7 @@ using System.Net.Http.Headers;
 using System.Text.RegularExpressions;
 using System.Threading;
 
-namespace ArticlesBot
+namespace Bot
 {
     public class Program
     {
